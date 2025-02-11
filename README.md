@@ -1,4 +1,4 @@
-![Felix Bouazza's github stats](header.png)
+![Bannière de mon profil Github](banner.png)
 
 🔭 I’m currently working on many things, __web applications__ for my clients, __smart contracts__ for myself, and also on __few websites__  
 🌱 I’m currently learning __Solidity__  
