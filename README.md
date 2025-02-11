@@ -29,5 +29,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 ---
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#50](https://github.com/once-ui-system/magic-portfolio/pull/50) in [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio)
+<!--END_SECTION:activity-->
 
 ---
