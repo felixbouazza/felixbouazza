@@ -28,10 +28,6 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31k3cddpqgh77bpaqnaejhfomggi)
-
----
-
 <!--START_SECTION:activity-->
 
 ---
