@@ -25,3 +25,13 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixbouazza&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+---
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31k3cddpqgh77bpaqnaejhfomggi)
+
+---
+
+<!--START_SECTION:activity-->
+
+---
