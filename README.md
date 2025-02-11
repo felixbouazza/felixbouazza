@@ -5,7 +5,13 @@
 👯 I’m looking to collaborate on __Jamstack__  
 💬 Ask me about __Python__, __Django__, __Next.js__ and also about the way to __easily build & deploy a website__  
 📫 How to reach me: fbouazza.dev@gmail.com  
-You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) and in the web on my [personnal website](https://felixbouazza.fr)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) and on my [personnal website](https://felixbouazza.fr)
+
+---
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#50](https://github.com/once-ui-system/magic-portfolio/pull/50) in [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio)
+<!--END_SECTION:activity-->
 
 ---
 
@@ -25,11 +31,3 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixbouazza&layout=compact&langs_count=8&card_width=320" />
 </a>
-
----
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/once-ui-system/magic-portfolio/pull/50) in [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio)
-<!--END_SECTION:activity-->
-
----
