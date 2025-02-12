@@ -18,6 +18,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make your Github profile look professional in 30 minutes](https://felixbouazza.fr/blog/comment-j-ai-rendu-mon-github-plus-professionnel-en-30-minutes)
 - [How to add a QR code scanner on a website](https://felixbouazza.fr/blog/comment-ajouter-un-scanner-de-qr-code-et-de-code-barre-sur-son-site-ou-son-application)
 <!-- BLOG-POST-LIST:END -->
 
