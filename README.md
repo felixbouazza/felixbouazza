@@ -18,8 +18,10 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make your Github profile look professional in 30 minutes](https://felixbouazza.fr/blog/comment-j-ai-rendu-mon-github-plus-professionnel-en-30-minutes)
-- [How to add a QR code scanner on a website](https://felixbouazza.fr/blog/comment-ajouter-un-scanner-de-qr-code-et-de-code-barre-sur-son-site-ou-son-application)
+- [A simple yet powerful stack: Django, HTMX, and Tailwind CSS](https://felixbouazza.fr/blog/a-simple-yet-powerful-stack-django-htmx-and-tailwind-css)
+- [Why I Turn Down Certain Developer Positions](https://felixbouazza.fr/blog/why-i-turn-down-certain-developer-positions)
+- [How I made my github professional in 30 minutes](https://felixbouazza.fr/blog/how-i-made-my-github-more-professional-in-30-minutes)
+- [A QR Code and Barcode Scanner with HTML and JavaScript](https://felixbouazza.fr/blog/a-qr-code-and-barcode-scanner-with-html-and-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://felixbouazza.fr/blog)
