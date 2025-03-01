@@ -10,7 +10,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/once-ui-system/magic-portfolio/pull/50) in [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio)
+1. 🎉 Merged PR [#1](https://github.com/felixbouazza/openZeppelinWavesERC20/pull/1) in [felixbouazza/openZeppelinWavesERC20](https://github.com/felixbouazza/openZeppelinWavesERC20)
 <!--END_SECTION:activity-->
 
 ---
