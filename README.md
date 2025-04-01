@@ -10,7 +10,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/felixbouazza/openZeppelinWavesERC20/pull/1) in [felixbouazza/openZeppelinWavesERC20](https://github.com/felixbouazza/openZeppelinWavesERC20)
+1. 💪 Opened PR [#1516](https://github.com/atlassian-api/atlassian-python-api/pull/1516) in [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
 <!--END_SECTION:activity-->
 
 ---
