@@ -10,7 +10,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1516](https://github.com/atlassian-api/atlassian-python-api/pull/1516) in [atlassian-api/atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
+1. 🗣 Commented on [#133](https://github.com/lastmile-ai/mcp-agent/pull/133#issuecomment-2815250767) in [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
 <!--END_SECTION:activity-->
 
 ---
