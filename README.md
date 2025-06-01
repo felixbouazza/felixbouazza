@@ -10,7 +10,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/felix-bouazza/) a
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/lastmile-ai/mcp-agent/pull/133#issuecomment-2815250767) in [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
+1. ❌ Closed PR [#133](https://github.com/lastmile-ai/mcp-agent/pull/133) in [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
 <!--END_SECTION:activity-->
 
 ---
